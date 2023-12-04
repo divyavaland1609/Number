@@ -1,0 +1,23 @@
+.counter{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 25px;
+    width: 100%;
+    min-height: 650px;
+    border: 5px black transparent;
+    border-radius: 5px;
+    color: rgb(37, 144, 144);
+    background-color:rgb(92, 24, 24);
+}
+
+p{
+    font-size: 200px;
+    color:rgb(61, 91, 99);
+}
+#buttons{
+    text-align: center;
+}
